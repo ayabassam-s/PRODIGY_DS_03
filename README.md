@@ -129,24 +129,12 @@ Gaming entities have a more positive sentiment by 0.01 points.
 # Entities with Strongly Negative Sentiment (Ratio < 0.5):  
 - WorldOfCraft (Ratio: 0.32)
   
-**5. Conclusion and Recommendations**
+**5. Conclusion**
 
 # Summary of Findings:  
 - The Twitter sentiment analysis reveals varying levels of public opinion across different entities.  
 - Overall, Microsoft sentiment is the most prevalent in the dataset.  
 - CallOfDutyBlackopsColdWar enjoys the most positive sentiment, while MaddenNFL faces the most negative sentiment.
   
-# Recommendations for Entities with Negative Sentiment:  
-- Microsoft: Consider addressing negative sentiment through improved customer engagement and addressing common complaints.  
-- LeagueOfLegends: Consider addressing negative sentiment through improved customer engagement and addressing common complaints.  
-- ApexLegends: Consider addressing negative sentiment through improved customer engagement and addressing common complaints.  
-- Facebook: Consider addressing negative sentiment through improved customer engagement and addressing common complaints.  
-- WorldOfCraft: Consider addressing negative sentiment through improved customer engagement and addressing common complaints.
-  
-# Recommendations for Sentiment Monitoring:  
-- Implement regular sentiment analysis to track changes in public opinion over time.  
-- Focus on entities with high negative sentiment for reputation management strategies.  
-- For entities with positive sentiment, identify successful factors that could be applied to other entities.  
-
 
 
